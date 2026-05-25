@@ -5,3 +5,4 @@ pillow
 tensorflow
 opencv-python
 numpy
+huggingface_hub
